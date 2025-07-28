@@ -1,0 +1,24 @@
+# ZeroToHero-CPP - Repository d'apprentissage
+
+## 📁 Fichiers à ignorer
+*.exe
+*.o
+*.obj
+*.out
+*.log
+
+# Dossiers temporaires
+temp/
+build/
+debug/
+release/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDE
+.vscode/settings.json
+.vscode/launch.json
+*.user
