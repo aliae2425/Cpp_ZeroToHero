@@ -4,27 +4,29 @@
 
 ### 🎯 **STATUT ACTUEL**
 - **Niveau :** 🌱 ÉCHAUFFEMENT
-- **Exercice en cours :** Ex03 - Opérations arithmétiques
-- **XP Totale :** 350 / 10000
-- **Progression :** ██░░░░░░░░ 3.5%
+- **Exercice en cours :** Ex05 - Switch/case
+- **XP Totale :** 750 / 10000
+- **Progression :** ████░░░░░░ 7.5%
 
 ### 🏆 **MES BADGES**
 - 👋 **Premier Programme** - Débloquer avec style ! (28/07/2025)
 - 🔢 **Maître des Variables** - Tous les types maîtrisés ! (28/07/2025)
+- ⚡ **Calculateur Express** - Opérations arithmétiques parfaites ! (28/07/2025)
+- 🎯 **Expert Conditions** - Logique conditionnelle maîtrisée ! (28/07/2025)
 
 ### 📈 **PROGRESSION PAR NIVEAU**
 
-#### 🌱 **ÉCHAUFFEMENT (Exercices 1-10)** - 2/10 ✅
+#### 🌱 **ÉCHAUFFEMENT (Exercices 1-10)** - 4/10 ✅
 - [x] Ex01: Premier programme (Hello World) ⭐ RÉUSSI
 - [x] Ex02: Variables et types de base ⭐ RÉUSSI + BONUS
-- [ ] Ex03: Opérations arithmétiques
-- [ ] Ex04: Entrées utilisateur (cin)
-- [ ] Ex05: Conditions simples (if/else)
-- [ ] Ex06: Switch/case
-- [ ] Ex07: Comparaisons multiples
-- [ ] Ex08: Variables booléennes
-- [ ] Ex09: Caractères et ASCII
-- [ ] Ex10: Mini calculatrice
+- [x] Ex03: Opérations arithmétiques ⭐ RÉUSSI + BONUS
+- [x] Ex04: Conditions simples (if/else) ⭐ RÉUSSI + BONUS
+- [ ] Ex05: Switch/case
+- [ ] Ex06: Comparaisons multiples
+- [ ] Ex07: Variables booléennes
+- [ ] Ex08: Caractères et ASCII
+- [ ] Ex09: Mini calculatrice
+- [ ] Ex10: Projet récapitulatif niveau ÉCHAUFFEMENT
 
 #### 🏋️‍♂️ **DÉVELOPPEMENT (Exercices 11-25)** - 0/15 ✅
 - [ ] Ex11: Boucle while
@@ -73,11 +75,12 @@
 - [ ] Ex50: Projet final expert
 
 ### 🎯 **MES OBJECTIFS PERSONNALISÉS**
-- 🎯 **Objectif immédiat :** Maîtriser Ex02 (Variables et types)
-- 🚀 **Rythme prévu :** Démarrage en douceur, puis accélération
+- 🎯 **Objectif immédiat :** Maîtriser Ex04 (Conditions if/else)
+- 🚀 **Rythme prévu :** Accélération en cours - autonomie excellente
 - 📈 **Plan :** Réviser les bases solides avant d'aller plus loin
 - 🎮 **Style :** Apprentissage progressif avec défis adaptés
 - 📝 **Commit système :** ✅ Activé - Chaque exercice = 1 commit détaillé
+- 🔧 **Mode coaching :** Explication des erreurs uniquement, pas de correction
 
 ### 📝 **NOTES PERSONNELLES**
 **🔄 SYSTÈME DE COMMIT ACTIVÉ ✅**
@@ -88,11 +91,13 @@
 **📈 HISTORIQUE DES COMMITS :**
 - 🎯 Ex01: Premier programme Hello World (28/07/2025) - Commit 0a6c1e0
 - 🔢 Ex02: Variables et types de base (28/07/2025) - Commit 3678ec1
+- ⚡ Ex03: Opérations arithmétiques (28/07/2025) - Commit e1fd486
+- 🎯 Ex04: Conditions if/else (28/07/2025) - À venir
 
 *Espace libre pour tes annotations et réflexions...*
 
 ---
 **📅 Dernière mise à jour :** 28/07/2025
-**🕒 Temps d'apprentissage total :** 1h00
+**🕒 Temps d'apprentissage total :** 2h00
 **⚡ Streak actuel :** 1 jour
-**🔄 Dernier commit :** 3678ec1 - Ex02 Variables
+**🔄 Dernier commit :** À venir - Ex04 Conditions
