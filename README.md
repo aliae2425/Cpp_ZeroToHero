@@ -72,15 +72,25 @@
 - [ ] Ex50: Projet final expert
 
 ### 🎯 **MES OBJECTIFS PERSONNALISÉS**
-- 🎯 **Objectif immédiat :** Maîtriser Ex01 (Hello World) 
+- 🎯 **Objectif immédiat :** Maîtriser Ex02 (Variables et types)
 - 🚀 **Rythme prévu :** Démarrage en douceur, puis accélération
 - 📈 **Plan :** Réviser les bases solides avant d'aller plus loin
 - 🎮 **Style :** Apprentissage progressif avec défis adaptés
+- 📝 **Commit système :** ✅ Activé - Chaque exercice = 1 commit détaillé
 
 ### 📝 **NOTES PERSONNELLES**
+**🔄 SYSTÈME DE COMMIT ACTIVÉ ✅**
+- Chaque exercice validé = commit automatique
+- Historique détaillé des apprentissages
+- Suivi de progression dans Git
+
+**📈 HISTORIQUE DES COMMITS :**
+- 🎯 Ex01: Premier programme Hello World (28/07/2025) - Commit 0a6c1e0
+
 *Espace libre pour tes annotations et réflexions...*
 
 ---
-**📅 Dernière mise à jour :** ${new Date().toLocaleDateString('fr-FR')}
-**🕒 Temps d'apprentissage total :** 0h
-**⚡ Streak actuel :** 0 jours
+**📅 Dernière mise à jour :** 28/07/2025
+**🕒 Temps d'apprentissage total :** 0h30
+**⚡ Streak actuel :** 1 jour
+**🔄 Dernier commit :** 0a6c1e0 - Ex01 Hello World

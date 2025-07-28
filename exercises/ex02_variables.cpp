@@ -38,21 +38,31 @@ using namespace std;
 
 int main() {
     // 🔽 DÉCLARE TES VARIABLES ICI 🔽
-    
-    
-    
-    
-    
+    int nombre = 42;           // Nombres entiers
+    float decimal = 3.14f;     // Nombres décimaux (précision simple)
+    double precision = 3.141592653589793; // Nombres décimaux (double précision)
+    char lettre = 'A';         // Un seul caractère
+    string texte = "Hello C++"; // Une chaîne de caractères
+    bool condition = true;     // Une valeur booléenne
     
     
     // 🔽 AFFICHE TES VARIABLES ICI 🔽
+    cout << "=== VARIABLES DE BASE ===" << endl;
+    cout << "Entier : " << nombre << endl;
+    cout << "Nombre décimal (float) : " << decimal << endl;
+    cout << "Nombre décimal (double) : " << precision << endl;
+    cout << "Caractère : " << lettre << endl;
+    cout << "Chaîne : " << texte << endl;
+    cout << "Booléen : " << boolalpha << condition << endl;
     
-    
-    
-    
-    
-    
-    
+    // Bonus : Afficher la taille de chaque type
+    cout << endl << "=== TAILLES DES TYPES EN MÉMOIRE ===" << endl;
+    cout << "Taille de int : " << sizeof(nombre) << " octets" << endl;
+    cout << "Taille de float : " << sizeof(decimal) << " octets" << endl;
+    cout << "Taille de double : " << sizeof(precision) << " octets" << endl;
+    cout << "Taille de char : " << sizeof(lettre) << " octets" << endl;
+    cout << "Taille de string : " << sizeof(texte) << " octets" << endl;
+    cout << "Taille de bool : " << sizeof(condition) << " octets" << endl;
     // 🔼 TON CODE AU-DESSUS 🔼
     return 0;
 }
