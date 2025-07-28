@@ -4,18 +4,19 @@
 
 ### 🎯 **STATUT ACTUEL**
 - **Niveau :** 🌱 ÉCHAUFFEMENT
-- **Exercice en cours :** Ex02 - Variables et types
-- **XP Totale :** 150 / 10000
-- **Progression :** █░░░░░░░░░ 1.5%
+- **Exercice en cours :** Ex03 - Opérations arithmétiques
+- **XP Totale :** 350 / 10000
+- **Progression :** ██░░░░░░░░ 3.5%
 
 ### 🏆 **MES BADGES**
 - 👋 **Premier Programme** - Débloquer avec style ! (28/07/2025)
+- 🔢 **Maître des Variables** - Tous les types maîtrisés ! (28/07/2025)
 
 ### 📈 **PROGRESSION PAR NIVEAU**
 
-#### 🌱 **ÉCHAUFFEMENT (Exercices 1-10)** - 1/10 ✅
+#### 🌱 **ÉCHAUFFEMENT (Exercices 1-10)** - 2/10 ✅
 - [x] Ex01: Premier programme (Hello World) ⭐ RÉUSSI
-- [ ] Ex02: Variables et types de base
+- [x] Ex02: Variables et types de base ⭐ RÉUSSI + BONUS
 - [ ] Ex03: Opérations arithmétiques
 - [ ] Ex04: Entrées utilisateur (cin)
 - [ ] Ex05: Conditions simples (if/else)
@@ -86,11 +87,12 @@
 
 **📈 HISTORIQUE DES COMMITS :**
 - 🎯 Ex01: Premier programme Hello World (28/07/2025) - Commit 0a6c1e0
+- 🔢 Ex02: Variables et types de base (28/07/2025) - Commit 3678ec1
 
 *Espace libre pour tes annotations et réflexions...*
 
 ---
 **📅 Dernière mise à jour :** 28/07/2025
-**🕒 Temps d'apprentissage total :** 0h30
+**🕒 Temps d'apprentissage total :** 1h00
 **⚡ Streak actuel :** 1 jour
-**🔄 Dernier commit :** 0a6c1e0 - Ex01 Hello World
+**🔄 Dernier commit :** 3678ec1 - Ex02 Variables

@@ -35,12 +35,25 @@ using namespace std;
 
 int main() {
     // 🔽 TON CODE ICI 🔽
-    
-    
-    
-    
-    
-    
+    int nombre1, nombre2;
+    cout << "Entrez le premier nombre : ";
+    cin >> nombre1;  // Saisie du premier nombre
+    cout << "Entrez le deuxième nombre : ";
+    cin >> nombre2;  // Saisie du deuxième nombre
+
+    if ( nombre2  == 0 ) { 
+        cout << "Erreur : Division par zéro !" << endl;  // Gérer la division par zéro
+        return 1;  // Sortie du programme avec erreur
+    }
+
+    // 🔽 EFFECTUE LES OPÉRATIONS ARITHMÉTIQUES ICI 🔽
+    cout << endl << "Résultats des opérations :" << endl;
+    cout << nombre1 << " + " << nombre2 << " = " << nombre1 + nombre2 << endl;
+    cout << nombre1 << " - " << nombre2 << " = " << nombre1 - nombre2 << endl;
+    cout << nombre1 << " * " << nombre2 << " = " << nombre1 * nombre2 << endl;
+    cout << nombre1 << " / " << nombre2 << " = " << (double)nombre1 / nombre2 << endl;  // Cast pour division décimale
+    cout << nombre1 << " % " << nombre2 << " = " << nombre1 % nombre2 << endl;
+
     // 🔼 TON CODE AU-DESSUS 🔼
     return 0;
 }
