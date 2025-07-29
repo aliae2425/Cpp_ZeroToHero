@@ -1,4 +1,9 @@
-# 🚀### 🎯 **STATUT ACTUEL**
+# 🚀### ### 🎯 **STATUT ACTUEL**
+- **Niveau :** 🎯 **PARCOURS PERSONNALISÉ** - Focus concepts clés
+- **Prochains concepts :** **Pointeurs** → Références → Allocation dynamique
+- **XP Totale :** 2100 / 10000
+- **Progression :** ████████░░ 21%
+- **Mode :** 📚 **APPRENTISSAGE APPROFONDI** des concepts difficilesTATUT ACTUEL**
 - **Niveau :** 🤸‍♂️ TRANSITION VERS MAÎTRISE !
 - **Exercice en cours :** Ex13 - OU SAUT DIRECT POO ?
 - **XP Totale :** 1700 / 10000
@@ -7,11 +12,11 @@
 ## 📊 **TABLEAU DE BORD PERSONNEL**
 
 ### 🎯 **STATUT ACTUEL**
-- **Niveau :** ️‍♂️ DÉVELOPPEMENT → **TRANSITION VERS MAÎTRISE**
-- **Exercice terminé :** Ex12 - Caesar cipher avec range-based for loops
+- **Niveau :** 🎯 **PARCOURS PERSONNALISÉ** - Focus concepts clés
+- **Prochains concepts :** Tableaux → Pointeurs → Références → Allocation dynamique
 - **XP Totale :** 1900 / 10000
 - **Progression :** ███████░░░ 19%
-- **Performance :** 🔥 COMPÉTENCES NIVEAU MAÎTRISE DÉMONTRÉES
+- **Mode :** � **APPRENTISSAGE APPROFONDI** des concepts difficiles
 
 ### 🏆 **MES BADGES**
 - 👋 **Premier Programme** - Débloquer avec style ! (28/07/2025)
@@ -22,6 +27,7 @@
 - ✅ **Logique Booléenne** - Validé par compétence démontrée ! (29/07/2025)
 - 🔄 **Maître des Boucles** - While + génération aléatoire ! (29/07/2025)
 - 🔐 **Cryptographe ASCII** - César + range-based for ! (29/07/2025)
+- 📊 **Architecte Tableaux** - Fonctions modulaires + références ! (29/07/2025)
 
 ### 📈 **PROGRESSION PAR NIVEAU**
 
@@ -37,25 +43,22 @@
 - [ ] Ex09: SAUTÉ - Caractères et ASCII
 - [ ] Ex10: SAUTÉ - Mini calculatrice
 
-#### 🏋️‍♂️ **DÉVELOPPEMENT (Exercices 11-25)** - 2/15 ✅ → EN COURS
+#### 🏋️‍♂️ **DÉVELOPPEMENT (Exercices 11-25)** - 2/15 ✅ → **PARCOURS PERSONNALISÉ**
 - [x] Ex11: Boucle while ⭐ RÉUSSI + BONUS EXCEPTIONNEL
 - [x] Ex12: Boucle for + Caractères ASCII ⭐ RÉUSSI NIVEAU MAÎTRISE
-- [ ] Ex13: Boucles imbriquées
-- [ ] Ex11: Boucle while
-- [ ] Ex12: Boucle for
-- [ ] Ex13: Boucles imbriquées
-- [ ] Ex14: Fonctions de base
-- [ ] Ex15: Paramètres et retour
-- [ ] Ex16: Tableaux simples
-- [ ] Ex17: Tableaux multidimensionnels
-- [ ] Ex18: Pointeurs introduction
-- [ ] Ex19: Références
-- [ ] Ex20: Allocation dynamique
+- [x] Ex13: Boucles imbriquées ⭐ **SAUTÉ** (maîtrisé)
+- [x] Ex14: Fonctions de base ⭐ **SAUTÉ** (déjà utilisées)
+- [x] Ex15: Paramètres et retour ⭐ **SAUTÉ** (déjà maîtrisé)
+- [x] **Ex16: Tableaux simples** ⭐ **RÉUSSI ARCHITECTURE AVANCÉE**
+- [ ] Ex17: Tableaux multidimensionnels 
+- [ ] **Ex18: Pointeurs introduction** 🎯 **CONCEPT CLÉ**
+- [ ] **Ex19: Références** 🎯 **CONCEPT CLÉ** 
+- [ ] **Ex20: Allocation dynamique** 🎯 **CONCEPT CLÉ**
 - [ ] Ex21: Chaînes de caractères
 - [ ] Ex22: Manipulation de strings
-- [ ] Ex23: Fichiers (lecture/écriture)
-- [ ] Ex24: Structures
-- [ ] Ex25: Énumérations
+- [ ] **Ex23: Fichiers (lecture/écriture)** 📚 **À FAIRE**
+- [ ] **Ex24: Structures** 📚 **À FAIRE**
+- [ ] **Ex25: Énumérations** 📚 **À FAIRE**
 
 #### 🤸‍♂️ **MAÎTRISE (Exercices 26-40)** - 0/15 ✅
 - [ ] Ex26: Classes et objets
