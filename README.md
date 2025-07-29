@@ -1,16 +1,17 @@
 # 🚀### 🎯 **STATUT ACTUEL**
-- **Niveau :** 🏋️‍♂️ DÉVELOPPEMENT
-- **Exercice en cours :** Ex12 - Boucle for + ASCII
-- **XP Totale :** 1350 / 10000
-- **Progression :** ██████░░░░ 13.5%ToHero-CPP - MON PARCOURS D'APPRENTISSAGE
+- **Niveau :** 🤸‍♂️ TRANSITION VERS MAÎTRISE !
+- **Exercice en cours :** Ex13 - OU SAUT DIRECT POO ?
+- **XP Totale :** 1700 / 10000
+- **Progression :** ████████░░ 17%ToHero-CPP - MON PARCOURS D'APPRENTISSAGE
 
 ## 📊 **TABLEAU DE BORD PERSONNEL**
 
 ### 🎯 **STATUT ACTUEL**
-- **Niveau :** ️‍♂️ DÉVELOPPEMENT - PRÊT POUR BOUCLES !
-- **Exercice en cours :** Ex11 - Boucle while
-- **XP Totale :** 1100 / 10000
-- **Progression :** █████░░░░░ 11%
+- **Niveau :** ️‍♂️ DÉVELOPPEMENT → **TRANSITION VERS MAÎTRISE**
+- **Exercice terminé :** Ex12 - Caesar cipher avec range-based for loops
+- **XP Totale :** 1900 / 10000
+- **Progression :** ███████░░░ 19%
+- **Performance :** 🔥 COMPÉTENCES NIVEAU MAÎTRISE DÉMONTRÉES
 
 ### 🏆 **MES BADGES**
 - 👋 **Premier Programme** - Débloquer avec style ! (28/07/2025)
@@ -20,6 +21,7 @@
 - 🔀 **Maître du Switch** - Switch/case + fonctions avancées ! (29/07/2025)
 - ✅ **Logique Booléenne** - Validé par compétence démontrée ! (29/07/2025)
 - 🔄 **Maître des Boucles** - While + génération aléatoire ! (29/07/2025)
+- 🔐 **Cryptographe ASCII** - César + range-based for ! (29/07/2025)
 
 ### 📈 **PROGRESSION PAR NIVEAU**
 
@@ -35,9 +37,10 @@
 - [ ] Ex09: SAUTÉ - Caractères et ASCII
 - [ ] Ex10: SAUTÉ - Mini calculatrice
 
-#### 🏋️‍♂️ **DÉVELOPPEMENT (Exercices 11-25)** - 1/15 ✅ → EN COURS
+#### 🏋️‍♂️ **DÉVELOPPEMENT (Exercices 11-25)** - 2/15 ✅ → EN COURS
 - [x] Ex11: Boucle while ⭐ RÉUSSI + BONUS EXCEPTIONNEL
-- [ ] Ex12: Boucle for + Caractères ASCII
+- [x] Ex12: Boucle for + Caractères ASCII ⭐ RÉUSSI NIVEAU MAÎTRISE
+- [ ] Ex13: Boucles imbriquées
 - [ ] Ex11: Boucle while
 - [ ] Ex12: Boucle for
 - [ ] Ex13: Boucles imbriquées
@@ -103,11 +106,12 @@
 - ⚡ Ex03: Opérations arithmétiques (28/07/2025) - Commit e1fd486
 - 🎯 Ex04: Conditions if/else (29/07/2025) - Commit 69545de
 - 🔀 Ex05: Switch/case EXCEPTIONNEL (29/07/2025) - Commit 1245265
+- 🔄 Ex11: Boucle while DÉVELOPPEMENT (29/07/2025) - Commit 2db8525
 
 *Espace libre pour tes annotations et réflexions...*
 
 ---
 **📅 Dernière mise à jour :** 29/07/2025
-**🕒 Temps d'apprentissage total :** 2h30
+**🕒 Temps d'apprentissage total :** 3h00
 **⚡ Streak actuel :** 2 jours
-**🔄 Dernier commit :** 1245265 - Ex05 Switch EXCEPTIONNEL
+**🔄 Dernier commit :** 2db8525 - Ex11 Boucle while DÉVELOPPEMENT
