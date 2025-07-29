@@ -3,25 +3,27 @@
 ## 📊 **TABLEAU DE BORD PERSONNEL**
 
 ### 🎯 **STATUT ACTUEL**
-- **Niveau :** 🌱 ÉCHAUFFEMENT
-- **Exercice en cours :** Ex05 - Switch/case
-- **XP Totale :** 750 / 10000
-- **Progression :** ████░░░░░░ 7.5%
+- **Niveau :** 🌱 ÉCHAUFFEMENT → 🏋️‍♂️ TRANSITION DÉVELOPPEMENT
+- **Exercice en cours :** Ex06 - OU SAUT DIRECT AUX BOUCLES
+- **XP Totale :** 1000 / 10000
+- **Progression :** █████░░░░░ 10%
 
 ### 🏆 **MES BADGES**
 - 👋 **Premier Programme** - Débloquer avec style ! (28/07/2025)
 - 🔢 **Maître des Variables** - Tous les types maîtrisés ! (28/07/2025)
 - ⚡ **Calculateur Express** - Opérations arithmétiques parfaites ! (28/07/2025)
 - 🎯 **Expert Conditions** - Logique conditionnelle maîtrisée ! (28/07/2025)
+- 🔀 **Maître du Switch** - Switch/case + fonctions avancées ! (29/07/2025)
 
 ### 📈 **PROGRESSION PAR NIVEAU**
 
-#### 🌱 **ÉCHAUFFEMENT (Exercices 1-10)** - 4/10 ✅
+#### 🌱 **ÉCHAUFFEMENT (Exercices 1-10)** - 5/10 ✅
 - [x] Ex01: Premier programme (Hello World) ⭐ RÉUSSI
 - [x] Ex02: Variables et types de base ⭐ RÉUSSI + BONUS
 - [x] Ex03: Opérations arithmétiques ⭐ RÉUSSI + BONUS
 - [x] Ex04: Conditions simples (if/else) ⭐ RÉUSSI + BONUS
-- [ ] Ex05: Switch/case
+- [x] Ex05: Switch/case ⭐ RÉUSSI + BONUS EXCEPTIONNEL
+- [ ] Ex06: Comparaisons multiples
 - [ ] Ex06: Comparaisons multiples
 - [ ] Ex07: Variables booléennes
 - [ ] Ex08: Caractères et ASCII
@@ -92,12 +94,13 @@
 - 🎯 Ex01: Premier programme Hello World (28/07/2025) - Commit 0a6c1e0
 - 🔢 Ex02: Variables et types de base (28/07/2025) - Commit 3678ec1
 - ⚡ Ex03: Opérations arithmétiques (28/07/2025) - Commit e1fd486
-- 🎯 Ex04: Conditions if/else (28/07/2025) - À venir
+- 🎯 Ex04: Conditions if/else (29/07/2025) - Commit 69545de
+- 🔀 Ex05: Switch/case EXCEPTIONNEL (29/07/2025) - À venir
 
 *Espace libre pour tes annotations et réflexions...*
 
 ---
-**📅 Dernière mise à jour :** 28/07/2025
+**📅 Dernière mise à jour :** 29/07/2025
 **🕒 Temps d'apprentissage total :** 2h00
-**⚡ Streak actuel :** 1 jour
-**🔄 Dernier commit :** À venir - Ex04 Conditions
+**⚡ Streak actuel :** 2 jours
+**🔄 Dernier commit :** 69545de - Ex04 Conditions PARFAIT
