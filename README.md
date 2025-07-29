@@ -1,8 +1,8 @@
 # 🚀### ### 🎯 **STATUT ACTUEL**
 - **Niveau :** 🎯 **PARCOURS PERSONNALISÉ** - Focus concepts clés
-- **Prochains concepts :** **Pointeurs** → Références → Allocation dynamique
-- **XP Totale :** 2100 / 10000
-- **Progression :** ████████░░ 21%
+- **Prochains concepts :** **Références** → Allocation dynamique → Structures
+- **XP Totale :** 2300 / 10000
+- **Progression :** ████████░░ 23%
 - **Mode :** 📚 **APPRENTISSAGE APPROFONDI** des concepts difficilesTATUT ACTUEL**
 - **Niveau :** 🤸‍♂️ TRANSITION VERS MAÎTRISE !
 - **Exercice en cours :** Ex13 - OU SAUT DIRECT POO ?
@@ -28,6 +28,7 @@
 - 🔄 **Maître des Boucles** - While + génération aléatoire ! (29/07/2025)
 - 🔐 **Cryptographe ASCII** - César + range-based for ! (29/07/2025)
 - 📊 **Architecte Tableaux** - Fonctions modulaires + références ! (29/07/2025)
+- 🎯 **Maître des Pointeurs** - Déréférencement + validation ! (29/07/2025)
 
 ### 📈 **PROGRESSION PAR NIVEAU**
 
@@ -51,7 +52,7 @@
 - [x] Ex15: Paramètres et retour ⭐ **SAUTÉ** (déjà maîtrisé)
 - [x] **Ex16: Tableaux simples** ⭐ **RÉUSSI ARCHITECTURE AVANCÉE**
 - [ ] Ex17: Tableaux multidimensionnels 
-- [ ] **Ex18: Pointeurs introduction** 🎯 **CONCEPT CLÉ**
+- [x] **Ex18: Pointeurs introduction** ⭐ **RÉUSSI CONCEPT MAÎTRISÉ**
 - [ ] **Ex19: Références** 🎯 **CONCEPT CLÉ** 
 - [ ] **Ex20: Allocation dynamique** 🎯 **CONCEPT CLÉ**
 - [ ] Ex21: Chaînes de caractères
