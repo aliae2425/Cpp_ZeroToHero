@@ -1,9 +1,9 @@
 # 🚀### ### 🎯 **STATUT ACTUEL**
 - **Niveau :** 🎯 **PARCOURS PERSONNALISÉ** - Focus concepts clés
-- **Prochains concepts :** **Références** → Allocation dynamique → Structures
-- **XP Totale :** 2300 / 10000
-- **Progression :** ████████░░ 23%
-- **Mode :** 📚 **APPRENTISSAGE APPROFONDI** des concepts difficilesTATUT ACTUEL**
+- **Concepts maîtrisés :** Tableaux → Pointeurs → **Allocation dynamique** ✅
+- **XP Totale :** 2500 / 10000
+- **Progression :** █████████░ 25%
+- **Mode :** 📚 **CONCEPTS DIFFICILES VALIDÉS** - Prêt pour structuresTATUT ACTUEL**
 - **Niveau :** 🤸‍♂️ TRANSITION VERS MAÎTRISE !
 - **Exercice en cours :** Ex13 - OU SAUT DIRECT POO ?
 - **XP Totale :** 1700 / 10000
@@ -29,6 +29,7 @@
 - 🔐 **Cryptographe ASCII** - César + range-based for ! (29/07/2025)
 - 📊 **Architecte Tableaux** - Fonctions modulaires + références ! (29/07/2025)
 - 🎯 **Maître des Pointeurs** - Déréférencement + validation ! (29/07/2025)
+- 🏗️ **Gestionnaire Mémoire** - new/delete + allocation dynamique ! (30/07/2025)
 
 ### 📈 **PROGRESSION PAR NIVEAU**
 
@@ -54,7 +55,7 @@
 - [ ] Ex17: Tableaux multidimensionnels 
 - [x] **Ex18: Pointeurs introduction** ⭐ **RÉUSSI CONCEPT MAÎTRISÉ**
 - [ ] **Ex19: Références** 🎯 **CONCEPT CLÉ** 
-- [ ] **Ex20: Allocation dynamique** 🎯 **CONCEPT CLÉ**
+- [x] **Ex20: Allocation dynamique** ⭐ **RÉUSSI GESTION MÉMOIRE MAÎTRISÉE**
 - [ ] Ex21: Chaînes de caractères
 - [ ] Ex22: Manipulation de strings
 - [ ] **Ex23: Fichiers (lecture/écriture)** 📚 **À FAIRE**
