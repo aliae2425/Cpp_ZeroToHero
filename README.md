@@ -1,22 +1,13 @@
-# 🚀### ### 🎯 **STATUT ACTUEL**
-- **Niveau :** 🎯 **PARCOURS PERSONNALISÉ** - Focus concepts clés
-- **Concepts maîtrisés :** Tableaux → Pointeurs → **Allocation dynamique** ✅
-- **XP Totale :** 2500 / 10000
-- **Progression :** █████████░ 25%
-- **Mode :** 📚 **CONCEPTS DIFFICILES VALIDÉS** - Prêt pour structuresTATUT ACTUEL**
-- **Niveau :** 🤸‍♂️ TRANSITION VERS MAÎTRISE !
-- **Exercice en cours :** Ex13 - OU SAUT DIRECT POO ?
-- **XP Totale :** 1700 / 10000
-- **Progression :** ████████░░ 17%ToHero-CPP - MON PARCOURS D'APPRENTISSAGE
+# 🚀 ZeroToHero-CPP - MON PARCOURS D'APPRENTISSAGE
 
 ## 📊 **TABLEAU DE BORD PERSONNEL**
 
 ### 🎯 **STATUT ACTUEL**
 - **Niveau :** 🎯 **PARCOURS PERSONNALISÉ** - Focus concepts clés
-- **Prochains concepts :** Tableaux → Pointeurs → Références → Allocation dynamique
-- **XP Totale :** 1900 / 10000
-- **Progression :** ███████░░░ 19%
-- **Mode :** � **APPRENTISSAGE APPROFONDI** des concepts difficiles
+- **Concepts maîtrisés :** Tableaux → Pointeurs → **Allocation dynamique** ✅
+- **XP Totale :** 2500 / 10000
+- **Progression :** █████████░ 25%
+- **Mode :** 📚 **CONCEPTS DIFFICILES VALIDÉS** - Prêt pour structures
 
 ### 🏆 **MES BADGES**
 - 👋 **Premier Programme** - Débloquer avec style ! (28/07/2025)
@@ -45,7 +36,7 @@
 - [ ] Ex09: SAUTÉ - Caractères et ASCII
 - [ ] Ex10: SAUTÉ - Mini calculatrice
 
-#### 🏋️‍♂️ **DÉVELOPPEMENT (Exercices 11-25)** - 2/15 ✅ → **PARCOURS PERSONNALISÉ**
+#### 🏋️‍♂️ **DÉVELOPPEMENT (Exercices 11-25)** - 8/15 ✅ → **PARCOURS PERSONNALISÉ**
 - [x] Ex11: Boucle while ⭐ RÉUSSI + BONUS EXCEPTIONNEL
 - [x] Ex12: Boucle for + Caractères ASCII ⭐ RÉUSSI NIVEAU MAÎTRISE
 - [x] Ex13: Boucles imbriquées ⭐ **SAUTÉ** (maîtrisé)
@@ -92,10 +83,10 @@
 - [ ] Ex50: Projet final expert
 
 ### 🎯 **MES OBJECTIFS PERSONNALISÉS**
-- 🎯 **Objectif immédiat :** Maîtriser Ex04 (Conditions if/else)
-- 🚀 **Rythme prévu :** Accélération en cours - autonomie excellente
-- 📈 **Plan :** Réviser les bases solides avant d'aller plus loin
-- 🎮 **Style :** Apprentissage progressif avec défis adaptés
+- 🎯 **Objectif actuel :** Structures, Énumérations et Fichiers
+- 🚀 **Rythme :** Accélération confirmée - autonomie excellente
+- 📈 **Plan :** Focus concepts clés avant POO
+- 🎮 **Style :** Apprentissage approfondi avec explications poussées
 - 📝 **Commit système :** ✅ Activé - Chaque exercice = 1 commit détaillé
 - 🔧 **Mode coaching :** Explication des erreurs uniquement, pas de correction
 
@@ -105,18 +96,15 @@
 - Historique détaillé des apprentissages
 - Suivi de progression dans Git
 
-**📈 HISTORIQUE DES COMMITS :**
-- 🎯 Ex01: Premier programme Hello World (28/07/2025) - Commit 0a6c1e0
-- 🔢 Ex02: Variables et types de base (28/07/2025) - Commit 3678ec1
-- ⚡ Ex03: Opérations arithmétiques (28/07/2025) - Commit e1fd486
-- 🎯 Ex04: Conditions if/else (29/07/2025) - Commit 69545de
-- 🔀 Ex05: Switch/case EXCEPTIONNEL (29/07/2025) - Commit 1245265
-- 🔄 Ex11: Boucle while DÉVELOPPEMENT (29/07/2025) - Commit 2db8525
+**📈 DERNIERS COMMITS MAJEURS :**
+- 📊 Ex16: Tableaux avec architecture avancée (29/07/2025)
+- 🎯 Ex18: Pointeurs concept maîtrisé (29/07/2025)
+- 🏗️ Ex20: Allocation dynamique validée (30/07/2025)
 
 *Espace libre pour tes annotations et réflexions...*
 
 ---
-**📅 Dernière mise à jour :** 29/07/2025
-**🕒 Temps d'apprentissage total :** 3h00
-**⚡ Streak actuel :** 2 jours
-**🔄 Dernier commit :** 2db8525 - Ex11 Boucle while DÉVELOPPEMENT
+**📅 Dernière mise à jour :** 30/07/2025
+**🕒 Temps d'apprentissage total :** 4h30
+**⚡ Streak actuel :** 3 jours
+**🔄 Dernier commit :** f534dcd - Ex20 Allocation dynamique maîtrisée
