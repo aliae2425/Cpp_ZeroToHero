@@ -1,0 +1,8 @@
+Lundi: 250€
+Mardi: 300€
+Mercredi: 180€
+Jeudi: 220€
+Vendredi: 450€
+Samedi: 520€
+Dimanche: 380€
+Aujourd'hui: 10€

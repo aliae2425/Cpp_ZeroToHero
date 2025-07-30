@@ -1,0 +1,4 @@
+Menu Viande - 15€
+Menu Poisson - 18€
+Menu Vegetarien - 12€
+Menu Pizza - 10€
