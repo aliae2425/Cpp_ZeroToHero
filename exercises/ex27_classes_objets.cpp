@@ -69,6 +69,7 @@ public:
     // Plat(string nom, double prix);
     Plat(string nom, double prix) : nom(nom), prix(prix), disponible(true) {
         // Initialiser les attributs
+        nombrePlats++; // Incrémenter le compteur
     }   
     
     
