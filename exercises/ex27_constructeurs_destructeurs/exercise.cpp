@@ -94,44 +94,14 @@ private:
     static int nombreLivres; // Compteur statique
     
 public:
-    // 🎯 TON CODE ICI - Déclarer tous les constructeurs
-    
-    // 1️⃣ Constructeur par défaut
-    Livre() {
-        nombreLivres++;
-        titre = DEFAULT_TITLE + " " + to_string(nombreLivres);
-        auteur = DEFAULT_AUTHOR;
-        annee = DEFAULT_YEAR;
-        cout << "Livre par defaut cree" << endl;
-    }
+    // Déclarations uniquement (implémentations plus bas)
+    Livre();
+    Livre(string t, string a, int y);
+    Livre(const Livre& autre);
+    ~Livre();
 
-    
-    
-    
-    // 2️⃣ Constructeur avec paramètres
-    Livre(string t, string a, int y) : titre(t), auteur(a), annee(y) {
-        nombreLivres++;
-        cout << "Livre cree : " << titre << " par " << auteur << " (" << annee << ")" << endl;
-    }
-    
-    // 3️⃣ Constructeur de copie$
-    Livre(const Livre& autre) : titre(autre.titre), auteur(autre.auteur), annee(autre.annee) {
-        nombreLivres++;
-        cout << "Livre copie cree : " << titre << " par " << auteur << " (" << annee << ")" << endl;
-    }
-    
-    
-    // 4️⃣ Destructeur
-    ~Livre() {
-        nombreLivres--;
-        cout << "Livre detruit : " << titre << endl;
-    }
-    
-    
     // 📋 Méthodes utilitaires
-    void afficher() const {
-        cout << "📖 \"" << titre << "\" par " << auteur << " (" << annee << ")" << endl;
-    };
+    void afficher() const;
     static int getNombreLivres() { return nombreLivres; }
     
     // Getters
@@ -149,42 +119,13 @@ private:
     int nbLivres;
     
 public:
-    // 🎯 TON CODE ICI - Constructeurs avec allocation dynamique
-    
-    // Constructeur avec paramètres
-    Bibliotheque(string n, int cap) : nom(n), capacite(cap), nbLivres(0) {
-        livres = new Livre[capacite]; // Allocation dynamique
-        cout << "Bibliotheque '" << nom << "' cree avec capacite " << capacite << endl;
-    }
-    
-    
-    // Constructeur de copie (ESSENTIEL pour allocation dynamique !)
-    Bibliotheque(const Bibliotheque& autre) : nom(autre.nom), capacite(autre.capacite), nbLivres(autre.nbLivres) {
-        livres = new Livre[capacite]; // Allocation dynamique
-        for (int i = 0; i < nbLivres; i++) {
-            livres[i] = autre.livres[i]; // Copie profonde
-        }
-        cout << "Bibliotheque copie cree : " << nom << endl;
-    }
-    
-    
-    // Destructeur avec libération mémoire
-    ~Bibliotheque() {
-        delete[] livres; // Libération mémoire
-        cout << "Bibliotheque '" << nom << "' detruite" << endl;
-    }
-    
-    
+    // Déclarations uniquement (implémentations plus bas)
+    Bibliotheque(string n, int cap);
+    Bibliotheque(const Bibliotheque& autre);
+    ~Bibliotheque();
+
     // 📚 Méthodes de gestion
-    void ajouterLivre(const Livre& livre){
-        if (nbLivres < capacite) {
-            livres[nbLivres] = livre; // Appelle automatiquement le constructeur de copie !
-            nbLivres++;
-            cout << "✅ Livre ajoute a la bibliotheque !" << endl;
-        } else {
-            cout << "❌ Bibliotheque pleine !" << endl;
-        }
-    };
+    void ajouterLivre(const Livre& livre);
     void afficherCatalogue() const;
     int getNombreLivres() const { return nbLivres; }
 };
@@ -286,7 +227,7 @@ int main() {
     cout << "📚 PHASE 1 : Création de livres" << endl;
     // 🎯 TON CODE ICI - Créer des livres avec différents constructeurs
     cout << "Livres actifs : " << Livre::getNombreLivres() << endl;
-    Livre livre1(); // Constructeur par défaut
+    Livre livre1; // Constructeur par défaut (évite la 'most vexing parse')
     Livre livre2("1984", "George Orwell", 1949); // Constructeur
     Livre livre3(livre2); // Constructeur de copie
     cout << "Livres créés : " << Livre::getNombreLivres() << endl;
